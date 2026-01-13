@@ -32,7 +32,7 @@ int main() {
 
     /* 3. TEXT GRAVITY */
     clear();
-    char msg[] = "GRAVITY";
+    char msg[] = "Falling for her"; //replace accordingly
     for (int y = 0; y < 20; y++) {
         clear();
         for (int i = 0; i < y; i++) printf("\n");
