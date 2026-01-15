@@ -28,5 +28,9 @@ ___
 ### [Prank](prank.py)
 Generates fake (SAFE) pop-ups and random mouse moments.
 ___
+
+### [Password Strength Checker](pass_check.c)
+Check security of password.
+___
 > [!NOTE]
 > All the files are safe and does not cause any real threats to systems, all popups are fake and made for harmless use. 
